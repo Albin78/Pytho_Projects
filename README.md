@@ -8,6 +8,8 @@
 - Helpful to check whether you are healthy or not
 - Can take remdies if you are not healthy
 
+  # Video Showing the working is also attaced
+
  It is written using jupyter notebook
 
 # Code 
